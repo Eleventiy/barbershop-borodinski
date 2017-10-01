@@ -1,9 +1,23 @@
+# Node modules
 node_modules/
+
+# MacOS files
 .DS_Store
 Thumbs.db
-.idea
+
+# IntelliJ
+.idea/
+out/
+
+# Sublime text editor files
 *.sublime*
+
+# Ignore log files
 *.log
+
+# Ignore Adobe files
 *.psd
 *.ai
+
+# Ignore css files cause use preprocessors
 css/*.css
