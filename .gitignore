@@ -6,8 +6,9 @@ node_modules/
 Thumbs.db
 
 # IntelliJ
-.idea/
-out/
+*.iml
+.idea
+out
 
 # Sublime text editor files
 *.sublime*
